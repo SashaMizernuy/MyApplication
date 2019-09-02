@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "151920490075",
+    "firebase_url": "https://my-application-c577e.firebaseio.com",
+    "project_id": "my-application-c577e",
+    "storage_bucket": "my-application-c577e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151920490075:android:13c3c6a65bcbec53",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151920490075-2chmt2n5roi53bf2im0vara27v8asri9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn_zkfzKL_maEbtA-TKW8w-TSJMgtDQKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151920490075-2chmt2n5roi53bf2im0vara27v8asri9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
